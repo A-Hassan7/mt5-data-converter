@@ -1,5 +1,8 @@
 # Metatrader5 historical data to Pandas DataFrame converter
 
+## Demonstration
+![conversion-demo](images/conversion_demo.gif)
+
 ## What is this?
 
 This is a simple module with functions that will allow you to convert historical tick or OHLC data exported from Metatrader5 into a Pandas DataFrame.
